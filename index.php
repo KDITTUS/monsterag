@@ -6,6 +6,6 @@
     <title>Monster AG</title>
   </head>
   <body>
-	<h1>Monster AG</h1>
+	<h1>Monster AG 2.0</h1>
   </body>
  </html>
